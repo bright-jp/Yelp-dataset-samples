@@ -2,7 +2,7 @@
 
 <h2>1001件のYelpビジネスレビューのサンプルデータセット</h2>
 
-![Yelp dataset header](https://github.com/luminati-io/Yelp-dataset-samples/blob/main/yelp-datasets.png)
+![Yelp dataset header](https://github.com/bright-jp/Yelp-dataset-samples/blob/main/yelp-datasets.png)
 
 1000件以上のYelpビジネスレビューのYelpデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されています。
 
