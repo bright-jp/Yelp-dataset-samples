@@ -1,4 +1,4 @@
-# Yelp-dataset-samples
+# Yelp データセットサンプル
 
 <h2>1001件のYelpビジネスレビューのサンプルデータセット</h2>
 
